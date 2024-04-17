@@ -13,9 +13,10 @@
 
 ## Captures d'écran
 
+Screenshot : 
 ![Capture d'écran 1](screenshot1.png)
 
-
+Démonstration video : 
 ![demonstration ](demonstration.gif)
 
 
