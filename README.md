@@ -16,7 +16,7 @@
 ![Capture d'écran 1](screenshot1.png)
 
 
-![demonstration ](demonstration.mp4)
+![demonstration ](demonstration.gif)
 
 
 ## Dépendances
