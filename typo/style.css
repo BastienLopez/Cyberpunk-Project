@@ -1,0 +1,15 @@
+@font-face {
+  font-family: "Cyberpunk";
+  src: url("typo/Cyberpunk.ttf") format("truetype"),
+    url("typo/SdglitchdemoRegular-YzROj.ttf") format("truetype");
+  font-weight: bold;
+}
+
+.cyberpunk-text span {
+  display: block;
+  position: absolute;
+  font-family: "Cyberpunk", sans-serif;
+  font-size: 2.5em;
+  font-weight: bold;
+  text-align: center;
+}
